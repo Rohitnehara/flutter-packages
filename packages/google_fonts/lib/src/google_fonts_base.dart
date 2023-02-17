@@ -18,7 +18,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart' hide AssetManifest;
 import 'package:http/http.dart' as http;
 
-import 'dart:typed_data'
+import 'dart:typed_data';
 
 import '../google_fonts.dart';
 import 'asset_manifest.dart';
